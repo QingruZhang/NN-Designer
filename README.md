@@ -1,4 +1,6 @@
-# ![avatar](img/Logo.png =20x20) NN-Designer 
+# NN-Designer 
+![avatar](img/Logo.png =20x20) 
+
 ## Author
 + Qingru Zhang
 
@@ -14,13 +16,15 @@
     pip3 install torchvision
 
 
-##Getting started ![avatar](img/geneAct.png =20x20)  
+##Getting started
+![avatar](img/geneAct.png =20x20)  
 
 ### Brief Introduction
 It is a software course design about Neural network visualization designer. PyQt5 is used to design GUI.
 Pytorch is used to generate code and train corresponding neural networks.
 
-###Run Code Directly ![avatar](img/trainAct.png =20x20)
+###Run Code Directly 
+![avatar](img/trainAct.png =20x20)
 For Windows or Linux paltform, you can run `main.py` after installing dependency packages.
 In the this directory, run command:
 ```
