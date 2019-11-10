@@ -1,5 +1,4 @@
-# NN-Designer 
-![avatar](img/Logo.png =20x20) 
+# NN-Designer ![logo](img/Logo.png =20x20) 
 
 ## Author
 + Qingru Zhang
