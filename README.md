@@ -16,14 +16,14 @@
     pip3 install torchvision
 
 
-##Getting started
+## Getting started
 <!-- ![avatar](img/geneAct.png =20x20)   -->
 
 ### Brief Introduction
 It is a software course design about Neural network visualization designer. PyQt5 is used to design GUI.
 Pytorch is used to generate code and train corresponding neural networks.
 
-###Run Code Directly 
+### Run Code Directly 
 <!-- ![avatar](img/trainAct.png =20x20) -->
 For Windows or Linux paltform, you can run `main.py` after installing dependency packages.
 In the this directory, run command:
@@ -31,7 +31,7 @@ In the this directory, run command:
     python3 main.py
 ```
 
-###About File
+### About File
 
 | Dir   |      Comment      |
 |----------|:-------------:|
